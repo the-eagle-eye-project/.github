@@ -25,5 +25,5 @@ heights with the unparalleled capabilities of The Eagle Eye Project.
 
 ## High Level Architecture
 
-![High Level Design](./ee-design.png)
+![High Level Design](.\ee-design.png)
 
